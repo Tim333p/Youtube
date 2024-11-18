@@ -18,7 +18,6 @@ const SideBar = ({ navStyle, open }) => {
       : word;
   };
 
-
   return (
     <>
       <div

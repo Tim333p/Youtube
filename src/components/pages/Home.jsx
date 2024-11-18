@@ -11,7 +11,6 @@ import { AiOutlineStop } from "react-icons/ai";
 import { GoStop } from "react-icons/go";
 import { MdOutlineFlag } from "react-icons/md";
 
-
 const Home = () => {
   const [isMemuOpen, setIsMenuOpen] = useState(null);
 
